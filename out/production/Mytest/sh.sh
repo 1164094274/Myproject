@@ -1,6 +1,9 @@
 #!/bin/bash
 
-#添加了注释
+
+
+
+#啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
 str="i,like,you,csdn"
 arr=(${str//,/ })
 
